@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, you can call Bea 👋
 
 * :computer: I’m currently working full-time at TIG (Gazin) as a Junior Software Developer
 * :books: Learning more about Next.js, NestJs, TypeScript, and so on.
