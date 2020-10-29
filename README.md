@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+* :computer: I’m currently working full-time at TIG (Gazin) as a Junior Software Developer
+* :books: Learning more about Next.js, NestJs, TypeScript, and so on.
+* :balloon: Find me around the web:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-a-310079115/)
+&nbsp;
+
+
 <!--
 **beavanzi/beavanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
