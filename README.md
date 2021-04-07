@@ -5,7 +5,7 @@ Hi, you can call me Bea 👋
 * :computer: I’m currently working full-time at Gazin Tech as a Junior Software Developer
 * 🎓 Studying Computer Science at State University of Maringá (UEM)
 * :books: Learning more about Next.js, NestJs, TypeScript, and so on.
-* 💌 I really appreciate knowing more about Software Architecture (Hexagonal, Clean, Onion)
+* 💌 Really appreciate knowing more about Software Architecture (Hexagonal, Clean, Onion)
 * :balloon: Find me around the web:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-a-310079115/)
 &nbsp;
