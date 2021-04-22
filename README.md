@@ -11,6 +11,7 @@ Hi, you can call me Bea 👋
 &nbsp;
 
 
+
 <p align="center">
   <img width="460" height="200" src="https://github-readme-stats.vercel.app/api?username=beavanzi&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" >
 </p>
