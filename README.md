@@ -2,7 +2,7 @@
 Hi, you can call me Bea 👋
 </h1></p> 
 
-* :computer: I’m currently working half-time at Gazin Tech as a Junior Software Developer
+* :computer: I’m currently working half-time at Open Circle as a Junior Software Developer
 * 🎓 Studying Computer Science at State University of Maringá (UEM)
 * :books: Learning more about Next.js, NestJs, TypeScript, and so on.
 * 💌 Really appreciate knowing more about Software Architecture (Hexagonal, Clean, Onion)
