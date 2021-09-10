@@ -7,7 +7,7 @@ Hi, you can call me Bea 👋
 * :books: Learning more about Next.js, NestJs, TypeScript, and so on
 * 💌 Really appreciate knowing more about Software Architecture, Design Patterns and System Design
 * :balloon: Find me around the web:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-a-310079115/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-avanzi-ecli/)
 &nbsp;
 
 
