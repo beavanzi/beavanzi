@@ -2,10 +2,10 @@
 Hi, you can call me Bea 👋
 </h1></p> 
 
-* :computer: I’m currently working half-time at Open Circle as a Junior Software Developer
+* :computer: I’m currently working half-time at OLX Brasil as a Junior Software Developer
 * 🎓 Studying Computer Science at State University of Maringá (UEM)
-* :books: Learning more about Next.js, NestJs, TypeScript, and so on.
-* 💌 Really appreciate knowing more about Software Architecture (Hexagonal, Clean, Onion)
+* :books: Learning more about Next.js, NestJs, TypeScript, and so on
+* 💌 Really appreciate knowing more about Software Architecture, Design Patterns and System Design
 * :balloon: Find me around the web:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-a-310079115/)
 &nbsp;
