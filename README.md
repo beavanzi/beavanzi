@@ -3,7 +3,7 @@ Hi, you can call me Bea 👋
 </h1></p> 
 
 * :computer: I’m currently working at Trustly as a Software Developer
-* 🎓 Studying Computer Science at State University of Maringá (UEM)
+* 🎓 Graduted in Computer Science at State University of Maringá (UEM)
 * :books: Learning more about Next.js, NestJs, TypeScript, and so on
 * 💌  Really appreciate knowing more about Software Architecture, Design Patterns and System Design
 * :balloon: Find me around the web:
