@@ -2,10 +2,10 @@
 Hi, you can call me Bea 👋
 </h1></p> 
 
-* :computer: I’m currently working at Trustly as a Software Developer
+* :computer: I’m currently working at PagBank as a Software Developer
 * 🎓 Graduted in Computer Science at State University of Maringá (UEM)
-* :books: Learning more about Next.js, NestJs, TypeScript, and so on
-* 💌  Really appreciate knowing more about Software Architecture, Design Patterns and System Design
+* :books: Learning more about Python, Kotlin and Java
+* 💌  Really appreciate studying Software Architecture and System Design
 * :balloon: Find me around the web:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-avanzi-ecli/)
 &nbsp;
